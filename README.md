@@ -1,4 +1,4 @@
-# Foodie Finder
+# Foodie Finder for the Masses
 
 Welcome to the project repository for Foodie Finder, the innovative web application designed to enhance the way food enthusiasts discover and interact with food trucks in real-time. This repository contains all the source code and documentation needed to deploy, manage, and contribute to the Foodie Finder application.
 
